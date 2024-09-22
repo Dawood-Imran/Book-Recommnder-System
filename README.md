@@ -22,4 +22,9 @@ Welcome to the Book Recommendation System! This project utilizes the Nearest Nei
 - Personalized book recommendations based on user similarity.
 - Filtered recommendations to ensure relevance and quality.
 
+## Dataset
+- You can get the data set from this link : https://www.kaggle.com/code/ruchi798/book-crossing-starter-notebook-and-eda/input
+
+  
+
 
